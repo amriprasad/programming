@@ -15,6 +15,6 @@ This is the git repository for a course taught at IMSc by Areejit Samal and Amri
 1. Enter this directory and work on your assigment; instruction will be found in the file `README.md`.
 1. You can check the files which have changed using `git status`
 1. You can view the changes you have made using `git diff`
-1. Ask git to track all changed files using `git add .`.
+1. Ask git to track all changed files using `git add .`
 1. Commit changes using `git commit -m "Completed assignment"`; the text in the quotes can be any message you wish to type.
 1. Now push your completed assignment to github using `git push` (from the same subdirectory).
